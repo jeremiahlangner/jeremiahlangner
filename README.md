@@ -13,7 +13,7 @@ In April 2020 [Eduardo Covarrubias](https://github.com/0x6563) and I built an ap
 
 I run [sevenk.ai](https://sevenk.ai): private inference for open-weight models behind an OpenAI- and Anthropic-compatible API at https://sevenk.ai/v1. Flat monthly price, nothing stored, no usage limits.
 
-## Before that
+## Earlier
 
 From 2007 to 2019 I was an independent software developer and design consultant. Applications, websites, plugins, APIs, microservices and automated data feeds for clients including Zaxby's, Old Dominion Freight Line, Hincapie Sports and Fortis Riders, plus their brand and print collateral. WordPress, PHP, MySQL, Node.js, JavaScript, Liquid, Photoshop.
 
@@ -21,9 +21,11 @@ I also kept the servers running for [Coco-op Makerspace](https://www.cocoop.org/
 
 I have a BFA in Fine Art from Bob Jones University (2011, magna cum laude), which is where the design half comes from.
 
-## What I work in
+## Tools
 
-TypeScript, JavaScript, Python, Go, SQL, C, C++, C#, PHP, Ruby, Rust, Swift, Bash. HTML and CSS (SASS, SCSS, LESS), Angular, React, Vue, Next.js, Svelte, Tailwind, Bootstrap. AWS (Lambda, EC2, DynamoDB, RDS, S3, CloudFront, IAM, Bedrock, CloudFormation), Cloudflare Workers, Docker, Oracle, Vercel, Netlify, Linux, and CI/CD with GitHub Actions and Jenkins.
+TypeScript, JavaScript, Python, Go, SQL, C, C++, C#, PHP, Ruby, Rust, Swift, Bash. HTML and CSS (SASS, SCSS, LESS), Angular, React, Vue, Next.js, Svelte, Tailwind, Bootstrap. AWS (Lambda, EC2, DynamoDB, RDS, S3, CloudFront, IAM, Bedrock, CloudFormation), Cloudflare Workers, Docker, Oracle, Vercel, Netlify, Linux, GitHub Actions, Jenkins.
+
+For AI work: OpenCode, Claude Code, Codex, Cursor, VS Code, MCP, vLLM, SGLang, llama.cpp, GGUF, Hugging Face, and OpenAI-compatible APIs.
 
 ## Some things I've built
 
