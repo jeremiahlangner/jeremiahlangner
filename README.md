@@ -11,7 +11,7 @@ In April 2020 [Eduardo Covarrubias](https://github.com/0x6563) and I built an ap
 
 ## sevenk.ai
 
-I run [sevenk.ai](https://sevenk.ai): private inference for open-weight models (Qwen3.8 27B, Qwen3.8 Flash Next, DeepSeek V4.1, GLM 5.3 Flash) behind an OpenAI- and Anthropic-compatible API at https://sevenk.ai/v1. Flat monthly price, nothing stored, no usage limits. It works with Claude Code, Cursor, Codex, VS Code and OpenCode.
+I run [sevenk.ai](https://sevenk.ai): private inference for open-weight models behind an OpenAI- and Anthropic-compatible API at https://sevenk.ai/v1. Flat monthly price, nothing stored, no usage limits. It works with Claude Code, Cursor, Codex, VS Code and OpenCode.
 
 ## Before that
 
