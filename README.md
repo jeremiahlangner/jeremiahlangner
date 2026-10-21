@@ -17,7 +17,7 @@ I run [sevenk.ai](https://sevenk.ai): private inference for open-weight models (
 
 From 2007 to 2019 I was an independent software developer and design consultant. Applications, websites, plugins, APIs, microservices and automated data feeds for clients including Zaxby's, Old Dominion Freight Line, Hincapie Sports and Fortis Riders, plus their brand and print collateral. WordPress, PHP, MySQL, Node.js, JavaScript, Liquid, Photoshop.
 
-I also keep the servers running for [Coco-op Makerspace](https://www.cocoop.org/), a 501(c)(3) community makerspace in Flagstaff, Arizona with a woodshop, metal shop, ceramics, a sewing room and a digital fabrication lab with CNC routers, 3D printers and a laser cutter.
+I also kept the servers running for [Coco-op Makerspace](https://www.cocoop.org/), a 501(c)(3) community makerspace in Flagstaff, Arizona with a woodshop, metal shop, ceramics, a sewing room and a digital fabrication lab with CNC routers, 3D printers and a laser cutter. I was a board member and treasurer there too, until 2022.
 
 I have a BFA in Fine Art from Bob Jones University (2011, magna cum laude), which is where the design half comes from.
 
