@@ -4,32 +4,32 @@ Developer in Arizona, working remotely. TypeScript and Node against AWS most day
 
 ## Georgia State University (2019–present, remote)
 
-Lead Application Developer in Instructional Innovation and Technology: enterprise applications for faculty, staff and students, and mentoring junior developers and graduate students. AWS, TypeScript, Node.js, Angular, Oracle, GitHub Actions.
-
-In April 2020 [Eduardo Covarrubias](https://github.com/0x6563) and I built an application for emergency course withdrawals in four days. It handled 3,965 submissions before the 17th.
-[Georgia State Champions Hall of Fame](https://provost.gsu.edu/champions/jeremiah-langner/)
+- Lead Application Developer, Instructional Innovation and Technology: enterprise applications for faculty, staff and students, and mentoring junior developers and graduate students.
+- Stack: AWS, TypeScript, Node.js, Angular, Oracle, GitHub Actions.
+- April 2020: an emergency course-withdrawal application, built with [Eduardo Covarrubias](https://github.com/0x6563) in four days, 3,965 submissions before the 17th. ([Georgia State Champions Hall of Fame](https://provost.gsu.edu/champions/jeremiah-langner/))
 
 ## sevenk.ai
 
-I run [sevenk.ai](https://sevenk.ai): private inference for open-weight models behind an OpenAI- and Anthropic-compatible API at https://sevenk.ai/v1. Flat monthly price, nothing stored, no usage limits.
+- Private inference for open-weight models, OpenAI- and Anthropic-compatible API at https://sevenk.ai/v1.
+- Flat monthly price, nothing stored, no usage limits.
 
 ## Earlier
 
-From 2007 to 2019 I was an independent software developer and design consultant, building applications, APIs, microservices and data feeds for clients including Zaxby's and Old Dominion Freight Line, plus their brand and print collateral.
-
-I also kept the servers running for [Coco-op Makerspace](https://www.cocoop.org/), a 501(c)(3) community makerspace in Flagstaff, Arizona, and sat on its board as treasurer until 2022.
-
-BFA in Fine Art, Bob Jones University, 2011, magna cum laude.
+- 2007–2019: independent software developer and design consultant; applications, APIs, microservices and data feeds for clients including Zaxby's and Old Dominion Freight Line, plus their brand and print collateral.
+- Coco-op Makerspace, Flagstaff AZ: kept the servers running, and sat on the board as treasurer, until 2022.
+- BFA in Fine Art, Bob Jones University, 2011, magna cum laude.
 
 ## Tools
 
-TypeScript, JavaScript, Python, Go, C, C++, SQL, Rust, Swift, Bash. Angular, React, Vue, Next.js, Svelte, Tailwind. AWS, Cloudflare Workers, Docker, Oracle, Linux, GitHub Actions.
-
-For AI work: OpenCode, Claude Code, Codex, Cursor, MCP, vLLM, llama.cpp, GGUF, Hugging Face.
+- Languages: TypeScript, JavaScript, Python, Go, C, C++, SQL, Rust, Swift, Bash
+- Web: Angular, React, Vue, Next.js, Svelte, Tailwind
+- Cloud: AWS, Cloudflare Workers, Docker, Oracle, Linux, GitHub Actions
+- AI: OpenCode, Claude Code, Codex, Cursor, MCP, vLLM, llama.cpp, GGUF, Hugging Face
 
 ## Rather
 
-[rather](https://github.com/jeremiahlangner/rather) is a small expression language for JavaScript, on npm. I wrote the parser because the grammar was the interesting part; the evaluator followed from it.
+- A small expression language for JavaScript, on npm: [rather](https://github.com/jeremiahlangner/rather)
+- I wrote the parser because the grammar was the interesting part; the evaluator followed from it.
 
 ## Some things I've built
 
