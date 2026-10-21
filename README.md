@@ -27,6 +27,10 @@ TypeScript, JavaScript, Python, Go, SQL, C, C++, C#, PHP, Ruby, Rust, Swift, Bas
 
 For AI work: OpenCode, Claude Code, Codex, Cursor, VS Code, MCP, vLLM, SGLang, llama.cpp, GGUF, Hugging Face, and OpenAI-compatible APIs.
 
+## Rather
+
+[rather](https://github.com/jeremiahlangner/rather) is a small expression language for JavaScript, published on npm as `rather`: a parser, an evaluator, and a syntax reference in [rather.md](https://github.com/jeremiahlangner/rather/blob/main/rather.md). I wrote it because the grammar was the interesting part to work on, and the evaluator ended up being an obvious consequence of it.
+
 ## Some things I've built
 
 - [cloudflare-htmx-trello-clone](https://github.com/jeremiahlangner/cloudflare-htmx-trello-clone): a Trello clone built with HTMX and Cloudflare Workers
