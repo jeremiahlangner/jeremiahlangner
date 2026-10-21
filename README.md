@@ -1,12 +1,12 @@
 # Jeremiah Langner
 
-Developer in Arizona, working remotely. I write TypeScript and Node against AWS most days, Go and C when something has to be fast, and a lot of Bash.
+Developer in Arizona, working remotely. TypeScript and Node against AWS most days, Go and C when something has to be fast, and a lot of Bash.
 
 ## Georgia State University (2019–present, remote)
 
-I'm a Lead Application Developer in Instructional Innovation and Technology, which means enterprise applications for faculty, staff and students, mentoring junior developers and graduate students, and supporting internal customers. I work remotely out of Arizona. The stack is AWS, TypeScript, Node.js, Angular, Oracle and GitHub Actions.
+Lead Application Developer in Instructional Innovation and Technology: enterprise applications for faculty, staff and students, and mentoring junior developers and graduate students. AWS, TypeScript, Node.js, Angular, Oracle, GitHub Actions.
 
-In April 2020 [Eduardo Covarrubias](https://github.com/0x6563) and I built an application for emergency course withdrawals in four days. It handled 3,965 submissions between April 1 and 17.
+In April 2020 [Eduardo Covarrubias](https://github.com/0x6563) and I built an application for emergency course withdrawals in four days. It handled 3,965 submissions before the 17th.
 [Georgia State Champions Hall of Fame](https://provost.gsu.edu/champions/jeremiah-langner/)
 
 ## sevenk.ai
@@ -15,29 +15,29 @@ I run [sevenk.ai](https://sevenk.ai): private inference for open-weight models b
 
 ## Earlier
 
-From 2007 to 2019 I was an independent software developer and design consultant. Applications, websites, plugins, APIs, microservices and automated data feeds for clients including Zaxby's, Old Dominion Freight Line, Hincapie Sports and Fortis Riders, plus their brand and print collateral. WordPress, PHP, MySQL, Node.js, JavaScript, Liquid, Photoshop.
+From 2007 to 2019 I was an independent software developer and design consultant, building applications, APIs, microservices and data feeds for clients including Zaxby's and Old Dominion Freight Line, plus their brand and print collateral.
 
-I also kept the servers running for [Coco-op Makerspace](https://www.cocoop.org/), a 501(c)(3) community makerspace in Flagstaff, Arizona with a woodshop, metal shop, ceramics, a sewing room and a digital fabrication lab with CNC routers, 3D printers and a laser cutter. I was a board member and treasurer there too, until 2022.
+I also kept the servers running for [Coco-op Makerspace](https://www.cocoop.org/), a 501(c)(3) community makerspace in Flagstaff, Arizona, and sat on its board as treasurer until 2022.
 
-I have a BFA in Fine Art from Bob Jones University (2011, magna cum laude), which is where the design half comes from.
+BFA in Fine Art, Bob Jones University, 2011, magna cum laude.
 
 ## Tools
 
-TypeScript, JavaScript, Python, Go, SQL, C, C++, C#, PHP, Ruby, Rust, Swift, Bash. HTML and CSS (SASS, SCSS, LESS), Angular, React, Vue, Next.js, Svelte, Tailwind, Bootstrap. AWS (Lambda, EC2, DynamoDB, RDS, S3, CloudFront, IAM, Bedrock, CloudFormation), Cloudflare Workers, Docker, Oracle, Vercel, Netlify, Linux, GitHub Actions, Jenkins.
+TypeScript, JavaScript, Python, Go, C, C++, SQL, Rust, Swift, Bash. Angular, React, Vue, Next.js, Svelte, Tailwind. AWS, Cloudflare Workers, Docker, Oracle, Linux, GitHub Actions.
 
-For AI work: OpenCode, Claude Code, Codex, Cursor, VS Code, MCP, vLLM, SGLang, llama.cpp, GGUF, Hugging Face, and OpenAI-compatible APIs.
+For AI work: OpenCode, Claude Code, Codex, Cursor, MCP, vLLM, llama.cpp, GGUF, Hugging Face.
 
 ## Rather
 
-[rather](https://github.com/jeremiahlangner/rather) is a small expression language for JavaScript, published on npm as `rather`: a parser, an evaluator, and a syntax reference in [rather.md](https://github.com/jeremiahlangner/rather/blob/main/rather.md). I wrote it because the grammar was the interesting part to work on, and the evaluator ended up being an obvious consequence of it.
+[rather](https://github.com/jeremiahlangner/rather) is a small expression language for JavaScript, on npm. I wrote the parser because the grammar was the interesting part; the evaluator followed from it.
 
 ## Some things I've built
 
-- [cloudflare-htmx-trello-clone](https://github.com/jeremiahlangner/cloudflare-htmx-trello-clone): a Trello clone built with HTMX and Cloudflare Workers
-- [tmr](https://github.com/jeremiahlangner/tmr): a T-Mobile router stats and management dashboard
+- [cloudflare-htmx-trello-clone](https://github.com/jeremiahlangner/cloudflare-htmx-trello-clone): a Trello clone with HTMX and Cloudflare Workers
+- [tmr](https://github.com/jeremiahlangner/tmr): a T-Mobile router dashboard
 - [cloudflare-oauth-worker](https://github.com/jeremiahlangner/cloudflare-oauth-worker): an OAuth2 serverless implementation
-- [stray](https://github.com/jeremiahlangner/stray): a WebGPU game in TypeScript
-- [kvex](https://github.com/jeremiahlangner/kvex): a key/value store object editor for cloud storage
+- [stray](https://github.com/jeremiahlangner/stray): a WebGPU game
+- [kvex](https://github.com/jeremiahlangner/kvex): a key/value store editor for cloud storage
 - [webview](https://github.com/jeremiahlangner/webview): a tiny cross-platform webview library
 
 ## Elsewhere
@@ -45,4 +45,4 @@ For AI work: OpenCode, Claude Code, Codex, Cursor, VS Code, MCP, vLLM, SGLang, l
 - [jeremiahlangner.me](https://jeremiahlangner.me): my site and résumé
 - [jeremiah@jeremiahlangner.me](mailto:jeremiah@jeremiahlangner.me)
 - [LinkedIn](https://www.linkedin.com/in/jeremiah-langner-7a168a16b/)
-- [jlangsu](https://github.com/jlangsu): my other GitHub account, the GSU one
+- [jlangsu](https://github.com/jlangsu): my other GitHub account
