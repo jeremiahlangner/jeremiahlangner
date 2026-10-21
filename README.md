@@ -35,7 +35,6 @@ For AI work: OpenCode, Claude Code, Codex, Cursor, VS Code, MCP, vLLM, SGLang, l
 - [stray](https://github.com/jeremiahlangner/stray): a WebGPU game in TypeScript
 - [kvex](https://github.com/jeremiahlangner/kvex): a key/value store object editor for cloud storage
 - [webview](https://github.com/jeremiahlangner/webview): a tiny cross-platform webview library
-- [dotfiles](https://github.com/jeremiahlangner/dotfiles): my configs
 
 ## Elsewhere
 
