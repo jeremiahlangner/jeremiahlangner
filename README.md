@@ -6,7 +6,7 @@ Developer in Arizona, working remotely. I write TypeScript and Node against AWS 
 
 I'm a Lead Application Developer in Instructional Innovation and Technology, which means enterprise applications for faculty, staff and students, mentoring junior developers and graduate students, and supporting internal customers. I work remotely out of Arizona. The stack is AWS, TypeScript, Node.js, Angular, Oracle and GitHub Actions.
 
-In April 2020 Eduardo Covarrubias and I built an application for emergency course withdrawals in four days. It handled 3,965 submissions between April 1 and 17.
+In April 2020 [Eduardo Covarrubias](https://github.com/0x6563) and I built an application for emergency course withdrawals in four days. It handled 3,965 submissions between April 1 and 17.
 [Georgia State Champions Hall of Fame](https://provost.gsu.edu/champions/jeremiah-langner/)
 
 ## sevenk.ai
