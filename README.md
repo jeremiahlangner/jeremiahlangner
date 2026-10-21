@@ -33,11 +33,8 @@ Full-stack developer. TypeScript and Node against AWS most days, Go and C when s
 ## Some things I've built
 
 - [cloudflare-htmx-trello-clone](https://github.com/jeremiahlangner/cloudflare-htmx-trello-clone): a Trello clone with HTMX and Cloudflare Workers
-- [tmr](https://github.com/jeremiahlangner/tmr): a T-Mobile router dashboard
 - [cloudflare-oauth-worker](https://github.com/jeremiahlangner/cloudflare-oauth-worker): an OAuth2 serverless implementation
-- [stray](https://github.com/jeremiahlangner/stray): a WebGPU game
 - [kvex](https://github.com/jeremiahlangner/kvex): a key/value store editor for cloud storage
-- [webview](https://github.com/jeremiahlangner/webview): a tiny cross-platform webview library
 
 ## Elsewhere
 
