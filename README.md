@@ -1,17 +1,16 @@
 # Jeremiah Langner
 
-Developer in Arizona, working remotely. TypeScript and Node against AWS most days, Go and C when something has to be fast, and a lot of Bash.
+Full-stack developer. TypeScript and Node against AWS most days, Go and C when something has to be fast, and a lot of Bash.
 
-## Georgia State University (2019–present, remote)
+## Georgia State University (2019–present)
 
-- Lead Application Developer, Instructional Innovation and Technology: enterprise applications for faculty, staff and students, and mentoring junior developers and graduate students.
+- IT Architect, Instructional Innovation and Technology: enterprise applications for faculty, staff and students, and mentoring junior developers and graduate students.
 - Stack: AWS, TypeScript, Node.js, Angular, Oracle, GitHub Actions.
 - April 2020: an emergency course-withdrawal application, built with [Eduardo Covarrubias](https://github.com/0x6563) in four days, 3,965 submissions before the 17th. ([Georgia State Champions Hall of Fame](https://provost.gsu.edu/champions/jeremiah-langner/))
 
 ## sevenk.ai
 
 - Private inference for open-weight models, OpenAI- and Anthropic-compatible API at https://sevenk.ai/v1.
-- Flat monthly price, nothing stored, no usage limits.
 
 ## Earlier
 
